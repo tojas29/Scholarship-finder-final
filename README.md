@@ -9,7 +9,7 @@ A full-stack web application to help students find and match with relevant schol
 - **Personalized Scholarship List**: View scholarships ranked by relevance, with deadline and amount details
 - **Filter and Sort Options**: Refine results by amount, deadline, and other criteria
 - **Favorite Scholarships**: Save scholarships of interest for later reference
-- **Responsive Design**: Works seamlessly across all device sizes
+- **Responsive Design**: Works seamlessly across all device size
   
 
 ## Tech Stack
