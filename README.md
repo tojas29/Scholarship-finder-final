@@ -18,9 +18,6 @@ Link : https://scholarship-finder-final-frontend.onrender.com/
 ### Frontend
 - React.js
 - Tailwind CSS
-- Lucide React (for icons)
-- Axios (for API requests)
-- date-fns (for date formatting)
 
 ### Backend
 - Node.js
